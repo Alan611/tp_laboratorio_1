@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1553949278 source:c:\users\alumno\desktop\trabajo practico nº1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1553949780 source:c:\users\alumno\desktop\trabajo practico nº1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1553894796 c:\users\alumno\desktop\trabajo practico nº1\operaciones.h
+
+1554332340 source:f:\cosas de alan\trabajo-uni\tecnicatura superior en programacion\c\trabajo practico nº1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554324492 source:f:\cosas de alan\trabajo-uni\tecnicatura superior en programacion\c\trabajo practico nº1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1553894796 f:\cosas de alan\trabajo-uni\tecnicatura superior en programacion\c\trabajo practico nº1\operaciones.h
+
+1553895286 source:e:\trabajo practico nº1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1553894796 e:\trabajo practico nº1\operaciones.h
+
+1553949278 source:e:\trabajo practico nº1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
